@@ -1,0 +1,1 @@
+This is just my first project made by myself, the concept is: just a simple and minimalist task manager :).
